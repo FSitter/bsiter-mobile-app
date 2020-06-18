@@ -4,16 +4,29 @@ BID mobile app that utilize for both android and ios.
 ---
 
 <p align="center">
-  <img src="https://github.com/Foxhound401//raw/master/img/frontpage.png" width="200" height="390">
+  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/homescreen.jpg" width="200" height="390">
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="https://github.com/Foxhound401/event-act-client/raw/master/img/flow-over.png" width="200" height="390">
+  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/optionshomescreen.jpg" width="200" height="390">
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="https://github.com/Foxhound401/event-act-client/raw/master/img/flash-frontpage.png" width="200" height="390">
+  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/findsitters.jpg" width="200" height="390">
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/sitterdetails.jpg" width="200" height="390">
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/createrequest.jpg" width="200" height="390">
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/skillsncerts.jpg" width="200" height="390">
 </p>
+
 
 
 ## Materials
@@ -41,7 +54,7 @@ npm install -g expo-cli
 
 ```bash
 # Clone the repo
-git clone https://git.babysitinde.live/capstone-project/react-native-boilerplate.git
+git clone https://github.com/FSitter/bsiter-mobile-app.git
 
 # Install dependencies
 yarn install
