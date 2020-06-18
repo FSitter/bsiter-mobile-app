@@ -1,14 +1,23 @@
-# React Native Starter Kit
+# React Native BID
 
+BID mobile app that utilize for both android and ios.
 ---
 
-## Intro
+<p align="center">
+  <img src="https://github.com/Foxhound401//raw/master/img/frontpage.png" width="200" height="390">
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/Foxhound401/event-act-client/raw/master/img/flow-over.png" width="200" height="390">
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/Foxhound401/event-act-client/raw/master/img/flash-frontpage.png" width="200" height="390">
+</p>
 
-This boilerplate launches with a [React Native app](https://facebook.github.io/react-native/)
 
-Specifically:
+## Materials
 
-- A shared React and React Native structure
 - **Routing and navigation**
   - [React Native Router Flux](https://github.com/aksonov/react-native-router-flux) for native mobile
 - **UI Toolkit/s**
@@ -17,8 +26,6 @@ Specifically:
   - [Expo](https://expo.io/)
 - **Code Linting** with
   - [Airbnb's JS Linting](https://github.com/airbnb/javascript) guidelines
-
----
 
 ## Getting Started
 
@@ -52,58 +59,3 @@ Instructions are shown in the terminal. You can select to open it in:
 - An emulator (either iOS or Android) (iOS use Xcode, android use Android studio)
 - Your mobile device with the [Expo app](https://expo.io/). It will reload if you save edits to your files and you will see build errors and logs in the terminal.
 
-* mr khanh:
-
-  - address: 682 Quang Trung, Phường 11, Gò Vấp, Hồ Chí Minh, Vietnam
-  - children: 3
-  - min age: 1
-
-* 3 bsitter:
-
-* dong:
-
-  - phoneNumber: "04",
-  - nickname: "DongBS",
-  - address: "684 Quang Trung, Phường 8, Gò Vấp, Hồ Chí Minh, Vietnam",
-  - gender: "MALE",
-  - weeklySchedule: 'MON,TUE,WED,THU,FRI',
-  - daytime: '08-17',
-  - evening: '17-20',
-  - minAgeOfChildren: 1,
-  - maxNumOfChildren: 2,
-  - averageRating: 4.5,
-  - totalFeedback: 20,
-
-* ky:
-
-  - phonenumber: 05
-  - nickname: ky
-  - address: 181 Lê Đức Thọ, Phường 17, Gò Vấp, Hồ Chí Minh, Vietnam
-  - gender: female
-  - weeklySchedule: 'MON,TUE,WED,THU,FRI',
-  - daytime: '08-17',
-  - evening: '17-21',
-  - minAgeOfChildren: 1,
-  - maxNumOfChildren: 2,
-  - averageRating: 5,
-  - totalFeedback: 1,
-
-* duong:
-
-  - phoneNumber: "06",
-  - nickname: "Duong",
-  - address: "690 Quang Trung, Phường 8, Gò Vấp, Hồ Chí Minh, Vietnam",
-  - gender: "FEMALE",
-  - weeklySchedule: 'TUE,THU,SAT',
-  - daytime: '08-17',
-  - evening: '17-22',
-  - minAgeOfChildren: 1,
-  - maxNumOfChildren: 2,
-  - averageRating: 4,
-  - totalFeedback: 1,
-
-* request:
-
-- khong ai lam viec vao chu nhat
-- duong chi lamf viec vao 2 4 6
--
